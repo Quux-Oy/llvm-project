@@ -1,4 +1,14 @@
 # The LLVM Compiler Infrastructure
+___
+## About Quux QNX ARMv7 port
+This is fork of [LLVM](https://github.com/llvm/llvm-project),
+adapted to run on QNX on Armv7.
+
+Quux default branch is named `qnx_armv7`.
+
+NOTE: do not create merge request to `main` unless you really mean to - that one goes to llvm repo.
+
+___
 
 This directory and its sub-directories contain source code for LLVM,
 a toolkit for the construction of highly optimized compilers,
